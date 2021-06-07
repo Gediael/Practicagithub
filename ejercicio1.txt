@@ -56,3 +56,15 @@ int numsigue
 	
 
 Fin.
+
+Ejercicio 6
+
+Inicio
+int num;
+	Escribir "Se genera numero aleatorio";
+	num = aleatorio (0,200);
+	Escribir "el numero aleatorio de 0 a 200 es:" num;
+	aumento = num*0.3 + num;
+	Escribir "el numero aleatorio aumentado 30% es :"aumentp;
+	
+
