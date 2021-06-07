@@ -1,0 +1,9 @@
+Inicio
+int:a,b;
+escribir "ingrese el primer numero numero";
+leer a;
+Escribir "ingresar el segudno numero";
+leer b;
+Suma = a + b;
+Escribir "la suma de la operacion es:" suma;
+Fin 

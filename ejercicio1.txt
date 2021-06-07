@@ -1,9 +1,22 @@
+Ejercicio1
 Inicio
-int:a,b;
-escribir "ingrese el primer numero numero";
-leer a;
-Escribir "ingresar el segudno numero";
-leer b;
-Suma = a + b;
+   int:a,b;
+	escribir "ingrese el primer numero numero";
+	leer a;
+	Escribir "ingresar el segudno numero";
+	leer b;
+	Suma = a + b;
 Escribir "la suma de la operacion es:" suma;
 Fin 
+
+Ejercicio2
+
+Inicio
+	int a1capital,a2pais;
+		Escribir "ingrese nombre de la capital de un pais";
+		leer a1capital;
+		Escribir "Ingrese el nombre de el pais";
+		leer a2pias
+		Escribir "La capital de:" + a2pais es: +  a1capital;
+Fin
+
