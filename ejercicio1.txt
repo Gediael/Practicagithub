@@ -122,3 +122,19 @@ int base,altura;
 		
 Fin.
 
+Ejercicio 11
+
+Inicio
+int ncentimetros;
+	Escribir "Ingrese un numero en centimetros";
+	leer ncentimetros;
+	centimetros = yarda/91.44centimetros<,
+	Escribir "el valor en yardas es;"centimetros;
+		ncentimetrosm = metro/100centimetros;
+		Escribir "El valor en metros es:"ncentimetrosm;
+			ncentimetrosp = pie/30.48centimetros
+			Escribir "El valor en pies es: "ncentimetrosp;
+				ncentimetrospu = pulgadas/2.54centimetros;
+				Escribir "El valor en pulgadas es:" ncentimetrospu;
+Fin
+
