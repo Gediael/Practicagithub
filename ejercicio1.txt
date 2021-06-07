@@ -164,5 +164,25 @@ int pi=3.1416;
 		Volumen = pi*r*r*h;
 		Escribir "El volumen del cilindro es;"cilindro;
 Fin
-	
+
+Ejercicio 14
+
+Inicio
+int num1,num2;
+	Escribir "Ingrese el primer numero";
+	leer num1;
+	Escribir "Ingrese el segundo numero";
+	leer num2;
+		si num2 % ! de num1;
+		entonces 
+		Escribir "numero no divisible"
+		
+		si num2 % 0 de num1
+		entonces 
+		Escribir "DIVISIBLE"
+		
+	div = num2/num1;
+	Escribir "La division es:"div;
+Fin 
+			 	
 		
