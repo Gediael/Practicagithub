@@ -79,3 +79,18 @@ int num;
 	Escribir "el numero aleatorio en decremento es:" menos;
 fin 	
 
+Ejercicio 8 
+
+Inicio
+int num1, num2, num3;
+	Escribir "Ingrese el primer numero";
+	Leer num1
+	Escribir "Ingrese el segundo numero";
+	leer num2;
+	Escribir "Ingrese un tercer numero";
+	leer num3;
+	
+		Promedio = (num1+num2+num3)/3;
+		Escribir "El promedio de los numros es;" promedio;
+		
+Fin
