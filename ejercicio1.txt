@@ -216,3 +216,23 @@ int num1,num2,num3;
 				sino entonces
 				Escribir "el numero mayor es: "num2;
 Fin
+
+
+
+Ejercicio 17
+
+Inicio
+int ladoaladob,ladoc;
+	Escribir "ingrese lado de triangulo";
+	leer ladoa;
+	Escribir "Ingrese otro lado de triangulo";
+	leer ladob;
+	Escribir "Ingrese tercer lado de triangulo";
+	leer ladoc;
+		si (ladoa=ladob & ladob=ladoc)entonces
+		Escribir "triangulo equilatero";
+			si (ladoa = ladoc & ladoa =ladob & lado c = ladob)entonces
+			Escribir "triangulo escaleno";
+				sino entonces
+				Escribir "triangulo isosceles";
+Fin.
