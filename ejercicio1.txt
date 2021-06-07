@@ -138,3 +138,14 @@ int ncentimetros;
 				Escribir "El valor en pulgadas es:" ncentimetrospu;
 Fin
 
+Ejercicio 12
+
+Inicio
+int Tcelcius;
+	Escribir "Ingrese la temperatura en Celcius";
+	leer Tceilcius;
+	Tfaherenheint = (9/5)*Tcelcius +32;
+	Escribir "La temperatura ingresada en fagerenheint es:" Tfaherenheint;
+Fin.
+
+
