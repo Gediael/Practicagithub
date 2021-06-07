@@ -185,4 +185,16 @@ int num1,num2;
 	Escribir "La division es:"div;
 Fin 
 			 	
-		
+Ejercicio 15
+
+Inicio
+int numero;
+	Escribir "Ingrese un numero";
+	leer numero;
+		si (numero < o)entonces 
+		Escribir "numero negativo";
+			si (numero >0)entonces
+			Escribir "numero positivo";
+				sino entonces
+				Escribir "Numero neutro";
+Fin  		
