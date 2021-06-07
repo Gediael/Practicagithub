@@ -7,7 +7,7 @@ Inicio
 	leer b;
 	Suma = a + b;
 Escribir "la suma de la operacion es:" suma;
-Fin 
+Fin.
 
 Ejercicio2
 
@@ -18,5 +18,16 @@ Inicio
 		Escribir "Ingrese el nombre de el pais";
 		leer a2pias
 		Escribir "La capital de:" + a2pais es: +  a1capital;
-Fin
+Fin.
 
+
+Ejercicio 3 
+Inicio
+ 	int num;
+ 		escribir "Ingrese un numero";
+ 		leer num;
+ 		doblenumero = 2*num;
+ 		escribir "el doble del numero es:" num2;
+ 			triplenumero = 3*num;
+ 			Escribir "El triple del numero es:" triplenumero;
+Fin.
