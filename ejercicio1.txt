@@ -65,6 +65,17 @@ int num;
 	num = aleatorio (0,200);
 	Escribir "el numero aleatorio de 0 a 200 es:" num;
 	aumento = num*0.3 + num;
-	Escribir "el numero aleatorio aumentado 30% es :"aumentp;
-	
+	Escribir "el numero aleatorio aumentado 30% es :"aumento;
+fin
+
+Ejercicio 7
+
+Inicio 
+int num;
+	Escribir "se genera numero aleatorio";
+	num = aleatorio (10,15);
+	Escribir "el numeor aleatorio de 10 a 5 es:" num;
+	menos = num -num0*.15;
+	Escribir "el numero aleatorio en decremento es:" menos;
+fin 	
 
