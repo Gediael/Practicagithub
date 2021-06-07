@@ -31,3 +31,18 @@ Inicio
  			triplenumero = 3*num;
  			Escribir "El triple del numero es:" triplenumero;
 Fin.
+
+Ejerciocio 4 
+
+Inicio
+ 	int numero;
+ 		Escribir "Ingrese un numero";
+ 		Leer numero;
+ 		cuadrado = numero*numero;
+ 		Escribir "El cuadro del numero es:" cuadrado;
+ 			cubo = numero*numero*numero;
+ 			Escribir "El cubo del numero es: " cubo;
+ 			
+Fin.
+ 			
+
