@@ -148,4 +148,21 @@ int Tcelcius;
 	Escribir "La temperatura ingresada en fagerenheint es:" Tfaherenheint;
 Fin.
 
+Ejercicio 13
 
+Inicio
+int radio,altura;
+int pi=3.1416;
+	Escribir" Ingrese el radio del cilindro";
+	leer radio;
+	Escribir "Ingrese la altura del cilindro";
+	leer altura;
+	si altura<0 & radio<0
+	entonces "datos no aceptados ";
+		si altura>o & radio>0;
+		entonces;
+		Volumen = pi*r*r*h;
+		Escribir "El volumen del cilindro es;"cilindro;
+Fin
+	
+		
