@@ -44,5 +44,15 @@ Inicio
  			Escribir "El cubo del numero es: " cubo;
  			
 Fin.
- 			
+ 				
+Ejercicio 5
 
+Inicio
+int numsigue
+	Escribir "Ingrese un numero";
+	Leer numsigue;
+	numsigue = numsigue +1;
+	Escribir el numero siguiente es; " numsigue;
+	
+
+Fin.
