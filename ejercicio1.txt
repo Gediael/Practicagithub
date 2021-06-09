@@ -235,4 +235,5 @@ int ladoaladob,ladoc;
 			Escribir "triangulo escaleno";
 				sino entonces
 				Escribir "triangulo isosceles";
+				s
 Fin.
